@@ -1,4 +1,0 @@
-
-set(CN_PROJECT_NAME "narutocoin")
-set(CN_CURRENCY_DISPLAY_NAME "NarutoCoin")
-set(CN_CURRENCY_TICKER "NRU")
